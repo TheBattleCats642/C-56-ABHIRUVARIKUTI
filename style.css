@@ -1,0 +1,10 @@
+body{
+    background-color:darkgoldenrod;
+    text-align:center;
+    font-size:15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    height:300px;
+    border-radius:99%;
+}
